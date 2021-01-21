@@ -2,6 +2,10 @@ my second commit
 
 second 
 
+<<<<<<< Updated upstream
 using of statsh
 
 
+=======
+Adding statch 
+>>>>>>> Stashed changes
